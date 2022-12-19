@@ -6,7 +6,7 @@
  <h3> Details:</h3>
        <p>
        <ol>
-      <li>This version of library has been optimized and tested with RI-2021.9 Xtensa tools.</li>
+      <li>This version of library has been optimized and tested with RI-2022.9 Xtensa tools.</li>
       </ol>
       </p>
 <h3> Known issues:</h3>
